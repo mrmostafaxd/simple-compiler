@@ -16,7 +16,7 @@
     - [functions](#functions)
 
 ## Description
-A simple C-like compiler built using Flex and Bison
+A simple C-like compiler built using Flex and Bison.
 
 [(return to top)](#simple-compiler)
 ## Requirements
